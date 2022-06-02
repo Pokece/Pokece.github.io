@@ -5,7 +5,7 @@
   
 >转载于 https://github.com/imsyy/home, 在此基础上进行二次创作
   
->看板娘转载于 https://https://github.com/itpika/live2d
+>看板娘转载于 https://github.com/itpika/live2d
 </p>
 
 ![Pokeceの主页](https://img.imsyy.top/other/imsyy-home.webp)
