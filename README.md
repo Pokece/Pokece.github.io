@@ -2,9 +2,9 @@
 
 <p>
 <strong><h2>Pokeceの主页</h2></strong>
-转载于 https://github.com/imsyy/home, 再次基础上进行二次创作
+>转载于 https://github.com/imsyy/home, 再次基础上进行二次创作
   
-看板娘转载于 https://https://github.com/itpika/live2d
+>看板娘转载于 https://https://github.com/itpika/live2d
 </p>
 
 ![Pokeceの主页](https://img.imsyy.top/other/imsyy-home.webp)
