@@ -8,7 +8,7 @@
 >看板娘转载于 https://github.com/itpika/live2d
 </p>
 
-![Pokeceの主页](https://img.imsyy.top/other/imsyy-home.webp)
+![Pokeceの主页](https://github.com/Pokece/Pokece.github.io/tree/main/img/icon/sample.png)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
