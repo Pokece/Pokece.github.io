@@ -3,7 +3,7 @@
 <p>
 <strong><h2>Pokeceの主页</h2></strong>
   
->转载于 https://github.com/imsyy/home, 在此基础上进行二次创作
+>转载于 https://github.com/imsyy/home, 在此基础上进行二次创作，主要是添加看板娘、根据自己需求修改模块等
   
 >看板娘转载于 https://github.com/itpika/live2d
 </p>
