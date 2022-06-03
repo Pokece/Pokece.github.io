@@ -9,7 +9,7 @@
 </p>
 
 ![Pokeceの主页](https://user-images.githubusercontent.com/63496225/171829949-9545d016-5d89-498b-843e-ac3dd4af1b82.png)
-<img width="1076" alt="sample" src="https://user-images.githubusercontent.com/63496225/171829949-9545d016-5d89-498b-843e-ac3dd4af1b82.png">
+<img width="876" alt="sample" src="https://user-images.githubusercontent.com/63496225/171829949-9545d016-5d89-498b-843e-ac3dd4af1b82.png">
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
