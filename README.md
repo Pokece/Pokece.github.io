@@ -8,8 +8,8 @@
 >看板娘转载于 https://github.com/itpika/live2d
 </p>
 
-![Pokeceの主页](https://user-images.githubusercontent.com/63496225/171829949-9545d016-5d89-498b-843e-ac3dd4af1b82.png)
-<img width="876" alt="sample" src="https://user-images.githubusercontent.com/63496225/171829949-9545d016-5d89-498b-843e-ac3dd4af1b82.png">
+![Pokeceの主页](https://user-images.githubusercontent.com/63496225/171830874-177e94b4-f33e-4de0-b764-51d7cc8ac8b8.png)
+
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Pacifico-Regular.ttf)
 
