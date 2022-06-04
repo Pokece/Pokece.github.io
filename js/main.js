@@ -53,7 +53,7 @@ else if (window.attachEvent)
 else window.onload = downloadJSAtOnload;
 
 //新春灯笼 （ 需要时取消注释 ）
-/*
+
 new_element=document.createElement("link");
 new_element.setAttribute("rel","stylesheet");
 new_element.setAttribute("type","text/css");
@@ -64,7 +64,7 @@ new_element=document.createElement("script");
 new_element.setAttribute("type","text/javascript");
 new_element.setAttribute("src","./js/lantern.js");
 document.body.appendChild(new_element);
-*/
+
 
 //火狐浏览器独立样式
 if (isFirefox = navigator.userAgent.indexOf("Firefox") > 0) {
@@ -200,6 +200,11 @@ $("#email").mouseover(function () {
 }).mouseout(function () {
     $("#link-text").html("通过这里联系我");
 });
+$("#weixin").mouseover(function () {
+    $("#link-text").html("加个微信 ~");
+}).mouseout(function () {
+    $("#link-text").html("通过这里联系我");
+});
 $("#telegram").mouseover(function () {
     $("#link-text").html("你懂的 ~");
 }).mouseout(function () {
@@ -222,7 +227,7 @@ $('#switchmore').on('click', function () {
     } else {
         $('#container').attr('class', 'container');
         $("#change").html("Hello&nbsp;World&nbsp;!");
-        $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+        $("#change1").html("这一生不算赶，不妨沿路看星光");
     }
 });
 
@@ -271,7 +276,7 @@ window.addEventListener('load', function () {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
             $("#change").html("Hello&nbsp;World&nbsp;!");
-            $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+            $("#change1").html("这一生不算赶，不妨沿路看星光");
 
             //移动端隐藏弹窗页面
             $('#box').css("display", "none");
@@ -345,7 +350,7 @@ color: rgb(244,167,89);
 var styleContent = `
 color: rgb(30,152,255);
 `
-var title1 = '無名の主页'
+var title1 = 'Pokeceの主页'
 var title2 = `
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
@@ -358,8 +363,8 @@ var content = `
 版 本 号：3.0
 更新日期：2022-05-20
 
-主页:  https://www.imsyy.top
-Github:  https://github.com/imsyy/home
+主页:  https://pokece.github.io
+Github:  https://github.com/pokece/pokece.github.io
 `
 console.log(`%c${title1} %c${title2}
 %c${content}`, styleTitle1, styleTitle2, styleContent)
